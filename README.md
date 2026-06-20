@@ -8,6 +8,8 @@ Semua data disimpan langsung di perangkat sehingga dapat digunakan kapan saja ta
 
 ---
 
+## INI MASIH BETA VERSION (ON DEVELOP)
+
 ## Mengapa VitaFlow?
 
 Banyak orang menggunakan aplikasi berbeda untuk mencatat tugas, mengelola uang, menyimpan catatan, dan melacak tujuan.
