@@ -8,7 +8,8 @@ Semua data disimpan langsung di perangkat sehingga dapat digunakan kapan saja ta
 
 ---
 
-## INI MASIH BETA VERSION (ON DEVELOP)
+## INI MASIH BETA VERSION (ON DEVELOP).
+link download : https://github.com/zaimar4/VitaFlow.App/releases/tag/prerealse
 
 ---
 
